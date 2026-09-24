@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\infrastructure\\verifyflashsizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\infrastructure\\verifyflashsizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|c:\\users\\erick\\downloads\\personal\\2026-sod226c-pa1-memo (1)\\boardapp\\boardapp\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5A0075-D868-421F-9F1B-BA95DA974A91}|BoardApp\\BoardApp.csproj|solutionrelative:boardapp\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Program.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Program.cs",
+              "RelativeToolTip": "BoardApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:41:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\Repository.cs",
+              "RelativeToolTip": "BoardApp\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:40:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BoardApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:40:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Models\\Board.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Models\\Board.cs",
+              "RelativeToolTip": "BoardApp\\Models\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:40:10.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerifyFlashSizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Infrastructure\\VerifyFlashSizeAttribute.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Infrastructure\\VerifyFlashSizeAttribute.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Infrastructure\\VerifyFlashSizeAttribute.cs",
+              "RelativeToolTip": "BoardApp\\Infrastructure\\VerifyFlashSizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:39:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BoardApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:39:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "BoardApp\\Controllers\\BoardController.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\Personal\\2026-SOD226C-PA1-Memo (1)\\BoardApp\\BoardApp\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "BoardApp\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:38:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
